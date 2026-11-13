@@ -1,0 +1,24 @@
+From 93595ead47b26f50d222429097de22cd453d50a8 Mon Sep 17 00:00:00 2001
+From: antoniosanp <antonio.pulgarin97@gmail.com>
+Date: Fri, 13 Nov 2026 14:29:00 -0500
+Subject: [PATCH] fistFile change
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 68b6abe..da8f8ce 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@ be
+ 10
+ lines
+ long
+-o
+-k
++im changing this
++an this one
+-- 
+2.43.0
+
